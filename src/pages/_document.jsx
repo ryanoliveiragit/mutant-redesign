@@ -28,6 +28,7 @@ export default class MyDocument extends Document {
     return (
       <Html lang="pt-br">
         <Head>
+          <link rel="shortcut icon" href="/favicon/favicon.ico" />
           <meta name="google" content="notranslate" />
           <meta httpEquiv="Content-Type" content="text/html; charset=utf-8" />
           <link href="https://fonts.googleapis.com/css2?family=Lexend:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet"></link>

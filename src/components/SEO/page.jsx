@@ -1,7 +1,7 @@
 import { NextSeo } from 'next-seo'
 
 function Page({title, description, path, children}) {
-    const url = `https://RyanOliveiraBrito.com${path}`;
+    const url = `https://SagradoNeon.com.br${path}`;
     return (
         <div>
             <NextSeo

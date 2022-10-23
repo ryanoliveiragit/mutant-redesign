@@ -1,12 +1,12 @@
 import React, { Fragment } from 'react'
 import { Text, Container } from './styles'
 
-const Title = ({ cnpj, fantasyName, fantasyNameStyled}) => {
+const Title = ({ cnpj, fantasyName, fantasyNameStyled, cnpjNum}) => {
     return (
         <Fragment>
             <Container>
-                <Text>{cnpj}</Text>
-                <Text className={fantasyNameStyled}>{fantasyName}</Text>
+                <Text>{fantasyName}</Text>
+                <Text className={fantasyNameStyled}>{cnpj} <b>{cnpjNum}</b></Text>
             </Container>
         </Fragment>
     )

@@ -1,19 +1,19 @@
-const title = 'RyanOliveiraBrito';
-const description = 'RyanOliveiraBrito'
+const title = 'SagradoNeon';
+const description = 'SagradoNeon'
 
 const SEO = {
     title,
     description,
-    canonical: 'https://RyanOliveiraBrito.com.br',
+    canonical: 'https://SagradoNeon.com.br',
     openGraph: {
         type: 'website',
         locate: 'pt-BR',
-        url: 'https://RyanOliveiraBrito.com.br',
+        url: 'https://SagradoNeon.com.br',
         title,
         description,
         images: [
             {
-                url: 'https://RyanOliveiraBrito.com.br/og.png',
+                url: 'https://SagradoNeon.com.br/og.png',
                 alt: title,
                 width: 1280,
                 height: 720,

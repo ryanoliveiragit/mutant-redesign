@@ -3,12 +3,9 @@ import { createGlobalStyle } from 'styled-components'
 const GlobalStyle = createGlobalStyle` //Styled global App
 
 :root {
-    --Primary: #F3F3F3;
-    --Secondary: #DDDDDD;
-    --Black: #393939;
-    --text: #393939;
-    --subTitle: #131212;
-    --White: #1f1f1f;
+    --Primary: #e9e9e9;
+    --Secondary: #3AFC8A;
+    --SecondaryHover: #33e07b;
 }
 * {
     margin: 0;

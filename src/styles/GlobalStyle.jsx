@@ -6,6 +6,7 @@ const GlobalStyle = createGlobalStyle` //Styled global App
     --Primary: #e9e9e9;
     --Secondary: #3AFC8A;
     --SecondaryHover: #33e07b;
+    --text: #393939;
 }
 * {
     margin: 0;

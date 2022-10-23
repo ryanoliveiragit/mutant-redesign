@@ -23,8 +23,8 @@ const Footer = ({cnpj, endereco, tell, fantasyName}) => {
           <div className="footer-copy-items">
             <a href="#">Políticas de Privacidade</a>
             <p>{cnpj}</p>
-            <p><span>Made with</span>
-              <span>by Ryanvs</span>
+            <p><span>Made</span>
+              <span>by MutantWhats</span>
             </p>
           </div>
         </div>

@@ -2,10 +2,11 @@ clone>
 - Dowload
 - Extract
 
-npm install -g npm
-npm install next react react-dom
+Npm>
+- npm install -g npm
+- npm install next react react-dom
 
-Modificar
+Modificara>
 - NEXT-SEO.JSX
 - PAGE.JSX
 Verificar o Head no navegador do google
